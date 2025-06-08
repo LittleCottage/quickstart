@@ -7,4 +7,6 @@ title = 'My First Post'
 
 This is **bold** text, and this is *emphasized* text.
 
+$$ E = mc^2 $$
+
 Visit the [Hugo](https://gohugo.io) website!
